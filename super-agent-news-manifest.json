@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[digitaltrends.com](https://www.digitaltrends.com/computing/gemini-spark-hits-mac-and-it-might-just-become-your-new-favorite-assistant/)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ)",
+    "[macrumors.com](https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/)",
+    "[engadget.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeWIwX0ZRckpRVTN3UkMyRklQNjVMalZwcmtHb1B5QWIwX0lyZ1NHQURTSlBaMm0tOEFmaUdsbTRuYkRVWkNMQzdsamlTNXp0VmZKd1dubFZUbi1ScVpVbzJRLUJsWkw4cE1mMHA4ZDc)",
+    "[basenor.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3VVaC1UZV9iYkxOUktOMjk3S3RUUWpUZjJTb1hCYjR0dUdIeHhyUWNuMmI5LU1LUjVTUmpYa0l0V3o3b3ZCX0c5RG51Y2NYd2FOWlExc1cwaF9Cako3TE84SHBadUpGYnROa1hIWkR2WnFjSE1zWWVlWVRKSEp5cThTTTNEZFFQUU5LUEhn)"
+  ],
+  "design_plan": "rng=42; audience=buyers+builders; AIDA=pass; hero_lines=3; bento_density=grid-auto-flow:dense; competitors_sweep=ok; CTA_contrast=ok",
+  "generated_at": "2026-07-01T17:50:46.313551+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A July 2026 snapshot for buyers and builders tracking personal AI agents \u2014 from Gemini Spark\u2019s move onto the Mac to regulatory friction around Siri AI, early signals from Grok, and why computer\u2011use agents are becoming the real battleground. Includes a clear Super perspective on durable computer\u2011use workflows and the advantage of a reusable computer-use cache."
+}
